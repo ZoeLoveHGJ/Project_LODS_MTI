@@ -1,0 +1,6 @@
+missing_rate_pct,Adaptive (Ours),Fixed (rho=2),Fixed (rho=4)
+1.0,17,16,31
+5.0,17,16,31
+10.0,17,16,31
+25.0,17,16,31
+50.0,17,16,31
